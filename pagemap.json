@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Testing",
+        "desc": "A section for testing.",
+        "mount": "/testing"
+    }
+]
